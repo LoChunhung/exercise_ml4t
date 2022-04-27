@@ -1,7 +1,8 @@
-# exercise_ml4t
-exercise for book machine learning for algorithm tradming.
-# 閱讀書籍之前，部分必須要做的事
-## 1. 安裝zip-line reload
+# A. 個人練習
+My personal exercises are related to Book Machine Learning for Algorithmic Trading.
+
+# B. 閱讀書籍之前，程式執行環境前置作業:
+## 1. 安裝Zip-Line reload
 ## 1.1 解決範例執行環境問題:
 ### Q1. 作者建議在windows環境下，使用anaconda來做為安裝管理程式，但後續提到2021後由於相依性問題，需使用指定的語法
 Ans: [網站建議安裝參考網址](https://github.com/stefan-jansen/zipline-reloaded)
@@ -38,3 +39,5 @@ Ans: 錯誤有多種，僅能提供遭遇的狀況，請注意這是建立全新
 `conda install -c ml4t -c conda-forge -c ranaroussi zipline-reloaded`
 
 就可以使用作者辛苦重新恢復的環境
+
+## 1.2 範例資料問題:
