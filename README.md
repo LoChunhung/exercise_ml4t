@@ -8,7 +8,7 @@ My personal exercises are related to Book Machine Learning for Algorithmic Tradi
 Ans: [網站建議安裝參考網址](https://github.com/stefan-jansen/zipline-reloaded)
 
 ### Q2. 按照安裝指令後出現錯誤?
-Ans: 錯誤有多種，僅能提供遭遇的狀況，請注意這是建立全新的python 3.8.13後的問題，不同環境可能有不同狀況。
+Ans: 錯誤隨著環境有多種不同情況，僅提供個人遭遇狀況，**請注意這是在Anaconda下建立全新的python 3.8.13環境下的問題**，不同環境可能有不同狀況。
 
 **錯誤描述:**
 陸續有數個package: **exchange-calendars**, **ta-lib, bcolz-zipline, empyrical-reloaded, zipline-reloaded** 出現如下的錯誤描述
